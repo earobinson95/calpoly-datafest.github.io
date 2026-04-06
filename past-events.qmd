@@ -20,6 +20,12 @@ knitr::include_graphics("calpoly-datafest-logo.PNG")
 
 :::: columns
 ::: {.column width=70%}
+`r fa("users")` 36 Teams
+
+`r fa("graduation-cap")` 3 Universities: Cal Poly, CSUMB, and UCSB
+
+`r fa("table")` 1 Data Set
+
 Read about our upcoming event on April 17-19th at [DataFest Returns: ‘An amazing experience for students’](https://cosam.calpoly.edu/news/2026/third-annual-datafest-event) by Nick Wilson!
 :::
 ::: {.column width=30%}
@@ -31,6 +37,16 @@ knitr::include_graphics("images/logos/2026-hex.png")
 ```
 :::
 ::::
+
+::: callout
+### Thank you to our sponsors!
+
++ [JMP Statistical Discovery](https://www.jmp.com/en/home)
++ [Noyce School of Applied Computing](https://noyce.calpoly.edu/)
++ [Cal Poly Crowdfund](https://crowdfund.calpoly.edu/project/46227)
++ [Cal Poly IRA](https://academicprograms.calpoly.edu/content/IRA/index)
++ [Cal Poly Statistics](https://statistics.calpoly.edu/)
+:::
 
 ## 2025
 
