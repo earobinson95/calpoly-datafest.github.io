@@ -11,12 +11,12 @@ project:
 
 website:
   title: "ASA DataFest @ Cal Poly - SLO"
-  #announcement:
-   # icon: info-circle
-    #dismissable: false
-    #content: "Help us fund next year's event; visit <https://crowdfund.calpoly.edu/datafest2025> by May 10th!"
-    #type: primary
-    #position: below-navbar
+  announcement:
+    icon: info-circle
+    dismissable: false
+    content: "Help us fund next year's event; visit <https://crowdfund.calpoly.edu/project/49615> by May 9th!"
+    type: primary
+    position: below-navbar
   navbar:
     left:
       - href: index.qmd
