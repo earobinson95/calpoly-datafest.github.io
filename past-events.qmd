@@ -48,6 +48,18 @@ knitr::include_graphics("images/logos/2026-hex.png")
 + [Cal Poly Statistics](https://statistics.calpoly.edu/)
 :::
 
+```{r}
+#| echo: false
+#| out-width: 100%
+#| fig-align: center
+
+knitr::include_graphics("images/2026/group-photo.jpeg")
+```
+
+- Best in Show: Whole Lotta R (Julia Aptekar, Addie Weaver, and Scarlet Kwan)
+- Best Visualization: DataFeasters (Emi Degembe, Alexi Casco, Barbara Ibrahim, and Nick Carboni)
+- Best Use of Outside Data: 67th Percentile (Natalie Sakamoto, Rhea Chellani, Gabby Apsay, and Sylvia Du)
+
 ## 2025
 
 :::: columns
