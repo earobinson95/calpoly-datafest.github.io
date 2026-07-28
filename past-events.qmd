@@ -26,7 +26,7 @@ knitr::include_graphics("calpoly-datafest-logo.PNG")
 
 `r fa("table")` 1 Data Set
 
-Read about our upcoming event on April 17-19th at [DataFest Returns: ‘An amazing experience for students’](https://cosam.calpoly.edu/news/2026/third-annual-datafest-event) by Nick Wilson!
+Read about our upcoming event on April 17-19th at [DataFest Returns: ‘An amazing experience for students’](https://bailey.calpoly.edu/news/datafest-returns-third-year) by Nick Wilson!
 :::
 ::: {.column width=30%}
 ```{r} 
@@ -49,16 +49,27 @@ knitr::include_graphics("images/logos/2026-hex.png")
 :::
 
 ```{r}
+#| layout-ncol: 3
+#| echo: false
+#| out-width: 100%
+#| fig-align: center
+#| fig-cap: 
+#| - "Best in Show: Whole Lotta R (Scarlet Kwan, Addie Weaver, and Julia Aptekar)"
+#| - "Best Visualization: DataFeasters (Alexi Casco, Emi Degembe, Barbara Ibrahim, [Dr. Emily Robinson] and Nick Carboni)"
+#| - "Best Use of Outside Data: 67th Percentile (Natalie Sakamoto, Gabby Apsay, Sylvia Du, and Rhea Chellani)"
+
+knitr::include_graphics("images/2026/best-in-show.jpeg")
+knitr::include_graphics("images/2026/best-visualization.jpeg")
+knitr::include_graphics("images/2026/best-use-of-outside-data.jpeg")
+```
+
+```{r}
 #| echo: false
 #| out-width: 100%
 #| fig-align: center
 
 knitr::include_graphics("images/2026/group-photo.jpeg")
 ```
-
-- Best in Show: Whole Lotta R (Julia Aptekar, Addie Weaver, and Scarlet Kwan)
-- Best Visualization: DataFeasters (Emi Degembe, Alexi Casco, Barbara Ibrahim, and Nick Carboni)
-- Best Use of Outside Data: 67th Percentile (Natalie Sakamoto, Rhea Chellani, Gabby Apsay, and Sylvia Du)
 
 ## 2025
 
